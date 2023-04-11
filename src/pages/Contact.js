@@ -17,9 +17,10 @@ const Contact = () => {
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.2668257175164!2d120.20868591433509!3d-3.0228486408370676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d915f1703c09e7f%3A0x1e93288ee8563d24!2sHonda%20Sanggar%20Laut%20Palopo!5e0!3m2!1sid!2sid!4v1681194375680!5m2!1sid!2sid"
               width="600"
               height="450"
-              allowfullscreen=""
+              className="border-0 w-100"
+              allowFullScreen=""
               loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"
+              referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
           <div className="col-12 mt-5">
@@ -70,18 +71,18 @@ const Contact = () => {
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <AiOutlineHome className="fs-5" />
                       <address className="mb-0">
-                        Hno:277 , Near village chopal , Mandaura, Sonipat,
-                        Haryana
+                        Hno:189 , Jl. Ratulangi , Palopo, Sulsel,
+                        Binturu
                       </address>
                     </li>
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <BiPhoneCall className="fs-5" />
-                      <a href="tel:+91 8264954234">+91 8264954234</a>
+                      <a href="tel:+62 85244562805">+62 85244562805</a>
                     </li>
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <AiOutlineMail className="fs-5" />
-                      <a href="mailto:navdeepdahiya753@gmail.com">
-                        navdeepdahiya753@gmail.com
+                      <a href="mailto:informatika749@gmail.com">
+                        informatika749@gmail.com
                       </a>
                     </li>
                     <li className="mb-3 d-flex gap-15 align-items-center">
